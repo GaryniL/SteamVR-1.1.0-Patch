@@ -1,5 +1,5 @@
 # SteamVR Plugin-1.1.0-Patch
-[![](./git_Resources/steamVR.png)](https://www.assetstore.unity3d.com/en/#!/content/32647)
+[![](./git_Resources/steamVR.jpg)](https://www.assetstore.unity3d.com/en/#!/content/32647)
 
 ## About
 This is a path that fix bug of Unity can only connecting one Vive controller with SteamVR plugin. This patch is for fixing the bug in this version. All rights belong to original developer [Valve Corporation](http://www.valvesoftware.com/).
@@ -13,7 +13,7 @@ Some related discussion forums：
 - [Trouble with SteamVR and Controllers](http://forum.unity3d.com/threads/trouble-with-steamvr-and-controllers.414840/)
 
 Example picture of this bug：
-![](./git_Resources/before.PNG)
+![](./git_Resources/before.jpg)
 
 Showing on the figure above, the left controller wont connect and be able to use. The gameobject of it will be disable by code SteamVR_ControllerManager.cs.
 
@@ -25,7 +25,7 @@ Because the gameobject is disable, the controller model won't be render by Steam
 2. If there are [SteamVR package](https://www.assetstore.unity3d.com/en/#!/content/32647) exist in your project, you can replace the code [SteamVR_ControllerManager.cs](./Scripts/SteamVR_ControllerManager.cs) and the bug will be fixed.
 
 - Now you can get both controller in your project：
-![](./git_Resources/after.PNG)
+![](./git_Resources/after.jpg)
 
 ## Version
 
