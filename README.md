@@ -2,7 +2,7 @@
 [![](./git_Resources/steamVR.png)](https://www.assetstore.unity3d.com/en/#!/content/32647)
 
 ## About
-This is a path that fix bug of Unity can only connecting one Vive controller with SteamVR plugin. This patch is for fixing the bug in this version. All rights belong to original developer [Valve Corporation](http://www.valvesoftware.com/).
+This is a patch that fix bug of Unity can only connecting one Vive controller with SteamVR plugin. This patch is for fixing the bug in this version. All rights belong to original developer [Valve Corporation](http://www.valvesoftware.com/).
 
 ## Problem
 I meet a problem while I connect two Vive controllers in Unity. 
