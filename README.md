@@ -12,7 +12,7 @@ Some related discussion forums：
 [Trouble with SteamVR and Controllers](http://forum.unity3d.com/threads/trouble-with-steamvr-and-controllers.414840/)
 
 Example picture of this bug：
-![](./git_Resources/before.png)
+![](./git_Resources/before.PNG)
 
 Showing on the figure above, the left controller wont connect and be able to use. The gameobject of it will be disable by code SteamVR_ControllerManager.cs.
 
@@ -24,7 +24,7 @@ Because the gameobject is disable, the controller model won't be render by Steam
 2. If there are [SteamVR package](https://www.assetstore.unity3d.com/en/#!/content/32647) exist in your project, you can replace the code [SteamVR_ControllerManager.cs](./Scripts/SteamVR_ControllerManager.cs) and the bug will be fixed.
 
 - Now you can get both controller in your project：
-![](./git_Resources/after.png)
+![](./git_Resources/after.PNG)
 
 ## Version
 
