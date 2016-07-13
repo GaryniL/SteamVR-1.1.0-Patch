@@ -1,15 +1,16 @@
 # SteamVR Plugin-1.1.0-Patch
+[![](./git_Resources/steamVR.png)](https://www.assetstore.unity3d.com/en/#!/content/32647)
 
 ## About
-This is a path that fix bug of Unity can only connecting one Vive controller with SteamVR plugin
+This is a path that fix bug of Unity can only connecting one Vive controller with SteamVR plugin. This patch is for fixing the bug in this version. All rights belong to original developer [Valve Corporation](http://www.valvesoftware.com/).
 
 ## Problem
 I meet a problem while I connect two Vive controllers in Unity. 
 
 Some related discussion forums：
 
-[Vive Controller not showing up anymore, tried everything, need help](http://forum.unity3d.com/threads/vive-controller-not-showing-up-anymore-tried-everything-need-help.411294/)
-[Trouble with SteamVR and Controllers](http://forum.unity3d.com/threads/trouble-with-steamvr-and-controllers.414840/)
+- [Vive Controller not showing up anymore, tried everything, need help](http://forum.unity3d.com/threads/vive-controller-not-showing-up-anymore-tried-everything-need-help.411294/)
+- [Trouble with SteamVR and Controllers](http://forum.unity3d.com/threads/trouble-with-steamvr-and-controllers.414840/)
 
 Example picture of this bug：
 ![](./git_Resources/before.PNG)
